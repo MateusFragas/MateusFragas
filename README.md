@@ -49,7 +49,7 @@ Principais problemas relatados pelo requisitante:
 <br><br>
 
 ### Análise de Clientes AdventureWorks
-<img align="left" width="500" src="https://github.com/MateusFragas/Analise-de-Clientes-AdventureWorks/blob/main/Power%20BI/Captura%20de%20tela%202025-05-13%20164917.png?raw=true">
+<img align="left" width="500" src="https://github.com/MateusFragas/Analise-de-Clientes-AdventureWorks/blob/main/Imagens/IMG%20PowerBI%201.png?raw=true">
 Projeto desenvolvido para análise e entendimento dos clientes da empresa AdventureWorks, utlizando linguagem SQL para consulta ao banco de dados.
 Principais desafios: <br>
 - Desenvolver consultas utilizando linguagem SQL.<br>
