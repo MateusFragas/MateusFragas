@@ -49,7 +49,7 @@ Principais problemas relatados pelo requisitante:
 <br><br>
 
 ### Análise de Clientes AdventureWorks
-<img align="left" width="500" src="https://github.com/BruceFonseca/AdventureWorks2022/blob/main/imagens/Captura%20de%20tela%202023-12-03%20121514.png?raw=true">
+<img align="left" width="500" src="https://github.com/MateusFragas/Analise-de-Clientes-AdventureWorks/blob/main/Power%20BI/Captura%20de%20tela%202025-05-13%20164917.png?raw=true">
 Projeto desenvolvido para análise e entendimento dos clientes da empresa AdventureWorks, utlizando linguagem SQL para consulta ao banco de dados.
 Principais desafios: <br>
 - Desenvolver consultas utilizando linguagem SQL.<br>
@@ -57,29 +57,6 @@ Principais desafios: <br>
 - Medir a performance e variação de novos clientes ao longo do tempo, identificando as principais fontes de crescimento da base de clientes.
 <br>
 <br>
-<a href="https://github.com/BruceFonseca/AdventureWorks2022/blob/main/README.md" target="_blank">Clique aqui</a> e acesse o repositório no Github.
+<a href="https://github.com/MateusFragas/Analise-de-Clientes-AdventureWorks" target="_blank">Clique aqui</a> e acesse o repositório no Github.
 <br>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiNWJjODBmOTAtYmNhMy00YjdmLTk5ZDMtMDc4NGI4NDY3YzJmIiwidCI6IjQxNGU0N2Q2LTVhNGUtNDkzZS05OWJkLTUzMTYwZjJhYWY2ZiJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para a empresa AdventureWorks.
-
-<!---
-ICONS https://devicon.dev/
--->
-
-<!---
-
-### minhas dicas:
-1 - copie o meu repositório de portfólio. Lá vc vai encontrar algumas imagens para utilizar nos seus principais links.
-2 - 
-
-Bloco de links
-<div style="display: inline_block"></div>
-
-Tag para links:
-<a href="https://brucefonseca.com/" target="_blank"></a>
-### adicione o link de suas redes sociais
-
-Tag para Imagens:
-<img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/web-link.png?raw=true">
-### adicione o link de imagens em seu repositório de projetos
-
--->
+<a href="https://app.powerbi.com/view?r=eyJrIjoiOTAxYWU3MGItZGMzOC00YjI2LWE0MzItZjFlODJiMzZiZDZjIiwidCI6ImZmOTg1MWE1LTViYjAtNGFmOS1hZGI3LTk2MGYxZTMzNzVhNiJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para a empresa AdventureWorks.
