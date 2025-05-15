@@ -34,20 +34,6 @@ Onde pode me encontrar:
 ## 
 
 ## Portfólio e Principais Projetos
-### Contoso Sales Dashboard
-<img align="right" width="500"  src="https://github.com/BruceFonseca/Portfolio/blob/main/projetos/contoso%2001.png?raw=true">
-Projeto de dashboard devolvido com Power BI para identificar os principais fatores que impactam as vendas da empresa Contoso, permitindo análises dinâmicas e de fácil compartilhamento com os responsáveis pela tomada de decisão.
-Principais problemas relatados pelo requisitante: 
-- Dificuldade de exportar os dados do sistema atual e manipular as informações em planilhas, macros e tabelas dinâmicas.
-- Segmentar dados  por filiais, categorias, produtos e períodos de tempo de uma forma simples, dinâmica e fácil de compartilhar.
-- Medir a performance comparando períodos de tempo (YoY, YTD, MoM, MTD).
-<br>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiOGMyNzM3ZGItNzI4Ni00MjcwLWI5YWQtN2JmODgyZDliMWM5IiwidCI6IjQxNGU0N2Q2LTVhNGUtNDkzZS05OWJkLTUzMTYwZjJhYWY2ZiJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
-<br>
-<a href="https://github.com/BruceFonseca/Contoso-Light/blob/main/README.md" target="_blank">Clique aqui</a> e acesse o repositório no Github.
-
-<br><br>
-
 ### Análise de Clientes AdventureWorks
 <img align="left" width="500" src="https://github.com/MateusFragas/Analise-de-Clientes-AdventureWorks/blob/main/Imagens/IMG%20PowerBI%201.png?raw=true">
 Projeto desenvolvido para análise e entendimento dos clientes da empresa AdventureWorks, utlizando linguagem SQL para consulta ao banco de dados.
